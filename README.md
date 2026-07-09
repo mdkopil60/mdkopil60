@@ -1,103 +1,157 @@
 <div align="center">
 
-# 👋 Hi, I'm Kopil Uddin
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Kopil%20Uddin&fontAlignY=38&fontSize=60&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=58"/>
 
-### 💻 Frontend Developer | MERN Stack Developer | Next.js Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Kopil+Uddin;Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff" />
+<p>
+<a href="https://github.com/mdkopil60">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/kopil-uddin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kopil7132@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://protfolio-1-teal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 Diploma in Computer Science & Technology
-- 💻 Passionate Frontend & MERN Stack Developer
-- 🌱 Currently learning **Next.js** and Backend Development
-- 🚀 Building scalable and user-friendly web applications
-- 🎯 Goal: Become a Professional Full Stack Developer
+💻 Passionate Full Stack Developer
 
----
+🚀 Specialized in MERN Stack Development
 
-## 🚀 Current Activities
+🌱 Currently exploring Next.js 16 & Advanced Backend
 
-- 🔭 Working on **MediCare Connect**
-- 🌱 Exploring **Next.js**
-- 📚 Learning Backend Development
-- 💡 Solving Programming Problems
+⚡ Love building scalable, secure and responsive web applications
+
+🎯 Goal: Become a Professional Software Engineer
 
 ---
 
-## 🛠 Skills
+# 🚀 Current Activities
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel" />
-</p>
+- 🔭 Building **MediCare Connect**
+- 🌱 Learning **Next.js**
+- 💼 Working on MERN Stack Projects
+- 📚 Exploring Authentication & Payment Gateway
+- ⚡ Solving Programming Problems
 
 ---
 
-## 🌐 Connect With Me
+# 🛠 Tech Stack
+
+### 🎨 Frontend
 
 <p>
-<a href="https://github.com/mdkopil60">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
+</p>
 
-<a href="https://linkedin.com/in/kopil-uddin">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+### ⚙ Backend
 
-<a href="mailto:kopil7132@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mdkopil60&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdkopil60&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdkopil60&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkopil60&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkopil60&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 📌 Featured Projects
-
-- 🏥 MediCare Connect
-- 👨‍⚕️ DocAppoint
-- 🛒 SunCart
-- 👥 Friends To KeenKeeper
+</p>
 
 ---
 
-## 📫 Contact
+# 🔥 GitHub Streak
 
-📧 Email: **kopil7132@gmail.com**
+<p align="center">
 
-📍 Location: **Feni, Bangladesh**
+<img src="https://streak-stats.demolab.com?user=mdkopil60&theme=tokyonight&hide_border=true"/>
 
-🌐 Portfolio: **https://protfolio-1-teal.vercel.app/**
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdkopil60&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mdkopil60&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏥 MediCare Connect
+
+Hospital Appointment & Healthcare Management Platform
+
+### 👨‍⚕️ DocAppoint
+
+Doctor Appointment Booking Platform
+
+### 🛒 SunCart
+
+Modern E-Commerce Website
+
+### 👥 KeenKeeper
+
+Friendship Management Web Application
+
+---
+
+# 📫 Contact
+
+📍 **Feni, Bangladesh**
+
+📧 **Email:** kopil7132@gmail.com
+
+🌐 **Portfolio:** https://protfolio-1-teal.vercel.app/
+
+💼 **LinkedIn:** https://linkedin.com/in/kopil-uddin
+
+---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+<img src="https://komarev.com/ghpvc/?username=mdkopil60&style=for-the-badge&color=blue"/>
+
+### ⭐ Thanks for visiting my profile!
+
+### 💙 Let's Build Something Amazing Together 🚀
 
 </div>
